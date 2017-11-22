@@ -1,2 +1,4 @@
 thong tin moi khoi tao trong nay
 Add thong tin moi duoc chen vao ne
+
+Co them thong tin ne
